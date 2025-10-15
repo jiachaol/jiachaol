@@ -32,17 +32,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=bAbdSNYAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0003-3973-3327"
 
-# ────────────────────────────────
-# Top navigation menu (header tabs)
-# ────────────────────────────────
-main:
-  - title: "About"
-    url: /about/
-  - title: "Publications"
-    url: /publications/
-  - title: "Teaching"
-    url: /teaching/
-
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
@@ -198,17 +187,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -234,15 +212,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  
   # _talks
   - scope:
       path: ""
