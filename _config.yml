@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Home"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiachao Liu"
 description              : &description "Personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
 
 # Site Author - The following control what appear as part of the author content on the side bar.
