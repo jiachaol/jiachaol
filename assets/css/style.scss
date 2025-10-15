@@ -1,0 +1,9 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* hide footer entirely */
+.page__footer {
+  display: none !important;
+}
