@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Homepage"
+title                    : "Homepage - Jiachao Liu"
 title_separator          : "-"
-name                     : &name "Jiachao Liu"
-description              : &description "Personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name ""
+description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
