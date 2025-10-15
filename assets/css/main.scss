@@ -8,17 +8,6 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
----
-# leave this front matter so Jekyll compiles SCSS
----
-
-@import "minimal-mistakes";
-
-/* your overrides AFTER the import */
-.page__footer { 
-  display: none !important;
-}
-
 @import
     "vendor/breakpoint/breakpoint",
 
