@@ -11,20 +11,21 @@ redirect_from:
 <p style="font-size: 0.9rem;">
 I'm a PhD candidate in Civil and Environmental Engineering at Carnegie Mellon University. My academic advisor is Prof. Sean Qian. My research lies at the intersection of data science, network theory, social science, artificial intelligence (AI) and urban resilience. 
 </p>
-  
+
 **Research interests**
-<p style="font-size: 0.9rem;">
-- AI-powered digital twins for coupled infrastrcuture and mobility systems
-- Human-centered AI and behavioral modeling
-- Urban system resilience
-- Heterogeneous data fusion
-</p>
+<ul style="font-size: 0.9rem; line-height: 1.4;">
+  <li>AI-powered digital twins for coupled infrastructure and mobility systems</li>
+  <li>Human-centered AI and behavioral modeling</li>
+  <li>Urban system resilience</li>
+  <li>Heterogeneous data fusion</li>
+</ul>
 
 **Education**
-<p style="font-size: 0.9rem;">
-- Ph.D. in Civil and Environmental Engineering, Carnegie Mellon University. (2025)
-- Master of Science in Machine Learning, Carnegie Mellon University. (2023)
-- Master of Science in Transportation Engineering, Southeast University. (2020)
-- Bachelor in Transportation Engineering, Dalian University of Technology. (2017)
-</p>
+<ul style="font-size: 0.9rem; line-height: 1.4;">
+  <li>Ph.D. in Civil and Environmental Engineering, Carnegie Mellon University (expected 2025)</li>
+  <li>Master of Science in Machine Learning, Carnegie Mellon University (2023)</li>
+  <li>Master of Science in Transportation Engineering, Southeast University (2020)</li>
+  <li>Bachelor in Transportation Engineering, Dalian University of Technology (2017)</li>
+</ul>
+
 
