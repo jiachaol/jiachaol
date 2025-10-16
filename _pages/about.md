@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-size: 0.9rem;">
+<p style="font-size: 0.7rem;">
 I'm a PhD candidate in Civil and Environmental Engineering at Carnegie Mellon University. My academic advisor is Prof. Sean Qian. My research lies at the intersection of data science, network theory, social science, artificial intelligence (AI) and urban resilience. 
 </p>
 
