@@ -13,7 +13,7 @@ I'm a PhD candidate in Civil and Environmental Engineering at Carnegie Mellon Un
 </p>
 
 **Research interests**
-<ul style="font-size: 0.9rem; line-height: 1.4;">
+<ul style="font-size: 0.7rem; line-height: 1.4;">
   <li>AI-powered digital twins for coupled infrastructure and mobility systems</li>
   <li>Human-centered AI and behavioral modeling</li>
   <li>Urban system resilience</li>
@@ -21,7 +21,7 @@ I'm a PhD candidate in Civil and Environmental Engineering at Carnegie Mellon Un
 </ul>
 
 **Education**
-<ul style="font-size: 0.9rem; line-height: 1.4;">
+<ul style="font-size: 0.7rem; line-height: 1.4;">
   <li>Ph.D. in Civil and Environmental Engineering, Carnegie Mellon University (expected 2025)</li>
   <li>Master of Science in Machine Learning, Carnegie Mellon University (2023)</li>
   <li>Master of Science in Transportation Engineering, Southeast University (2020)</li>
